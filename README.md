@@ -1,2 +1,2 @@
 # MafudNK.github.io
- Website Mafud
+Website Curriculum Vitae Mafud
